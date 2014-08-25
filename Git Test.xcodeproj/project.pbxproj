@@ -115,13 +115,13 @@
 		F49726A819AB3F7D00883586 /* Git Test */ = {
 			isa = PBXGroup;
 			children = (
-				F468C35E19ABD30200E40B60 /* CCTest.h */,
-				F468C35F19ABD30200E40B60 /* CCTest.m */,
 				F49726B119AB3F7D00883586 /* CCAppDelegate.h */,
 				F49726B219AB3F7D00883586 /* CCAppDelegate.m */,
 				F49726B419AB3F7D00883586 /* Main.storyboard */,
 				F49726B719AB3F7D00883586 /* CCViewController.h */,
 				F49726B819AB3F7D00883586 /* CCViewController.m */,
+				F468C35E19ABD30200E40B60 /* CCTest.h */,
+				F468C35F19ABD30200E40B60 /* CCTest.m */,
 				F49726BA19AB3F7D00883586 /* Images.xcassets */,
 				F49726A919AB3F7D00883586 /* Supporting Files */,
 			);
